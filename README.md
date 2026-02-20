@@ -1,6 +1,6 @@
 # StructureOS -- Content Intelligence Layer
 
-A knowledge graph platform that demonstrates features **only structured, queryable content can power** -- built on [Sanity](https://www.sanity.io/) and [GROQ](https://www.sanity.io/docs/groq).
+A knowledge graph platform that demonstrates features **only structured, queryable content can power** -- built on [Sanity](https://www.sanity.io/) and [GROQ](https://www.sanity.io/docs/groq). and Kilo Code with its versatile developer tools!
 
 **Built by [Sathvik Vempati](https://github.com/SVstudent)**
 
